@@ -33,12 +33,12 @@ Policy (ADMX) docs, the Policy CSP reference, or Microsoft Learn.
 
 **Privacy, App Privacy, Security, and the start of Microsoft Edge, with the
 Recommended column visible:**
-![Privacy, Security, and Microsoft Edge settings, showing the Category, Recommended, Setting, Current State, and Description columns](docs/screenshots/screenshot-privacy-security-edge.png)
+![Privacy, Security, and Microsoft Edge settings, showing the Category, Recommended, Setting, Current State, and Description columns](docs/images/screenshot-privacy-security-edge.png)
 
 **Microsoft Edge (continued), Cortana, Copilot & Windows AI, Location Services,
 User Behavior, Windows Update, Windows Explorer, Defender, Search, Taskbar,
 Miscellaneous, and Gaming:**
-![Remaining categories including Copilot & Windows AI, Windows Update, and Miscellaneous settings](docs/screenshots/screenshot-edge-ai-update-misc.png)
+![Remaining categories including Copilot & Windows AI, Windows Update, and Miscellaneous settings](docs/images/screenshot-edge-ai-update-misc.png)
 
 ## What's covered
 
